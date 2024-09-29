@@ -42,6 +42,7 @@ function linkarray(array) {
 let resultArray = linkarray(array);
 console.log(resultArray);
 
+##OUTPUT
 
 [
   {
